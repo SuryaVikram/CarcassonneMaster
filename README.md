@@ -1,4 +1,4 @@
-
+### Code Taken from WingedSheep https://github.com/wingedsheep
 # carcassonne
 Carcassonne implementation in python
 
